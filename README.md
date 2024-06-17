@@ -57,8 +57,6 @@ Alternatively, you can access the page directly [here](https://amlansahoo07.gith
 
 ## Acknowledgements
 
-## Acknowledgements
-
 This project is inspired by Piet Mondrian's "Composition No. III with Red, Blue, Yellow, and Black" and is developed from scratch as part of [Angela Yu's Web Development course on Udemy](https://www.udemy.com/course/the-complete-web-development-bootcamp/).
 
 ## License
