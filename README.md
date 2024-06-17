@@ -38,6 +38,7 @@ The CSS styles are embedded directly within the HTML file. Key styles include:
    ```sh
    cd mondrian-composition
 3. Open index.html in your preferred browser to view the composition.
+
 Alternatively, you can access the page directly [here](https://amlansahoo07.github.io/mondrian-composition/).
 
 ## Screenshots
